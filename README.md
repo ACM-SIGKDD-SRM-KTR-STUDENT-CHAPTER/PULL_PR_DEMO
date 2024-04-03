@@ -1,8 +1,8 @@
-![Forks](https://img.shields.io/github/forks/srmsigkdd/PR_Demo.svg)
-![Issues](https://img.shields.io/github/issues/srmsigkdd/PR_Demo.svg)
-![PR](https://img.shields.io/github/issues-pr/srmsigkdd/PR_Demo.svg)
+![Forks](https://img.shields.io/github/forks/ACM-SIGKDD-SRM-KTR-STUDENT-CHAPTER/PULL_PR_DEMO.svg)
+![Issues](https://img.shields.io/github/issues/ACM-SIGKDD-SRM-KTR-STUDENT-CHAPTER/PULL_PR_DEMO.svg)
+![PR](https://img.shields.io/github/issues-pr/ACM-SIGKDD-SRM-KTR-STUDENT-CHAPTER/PULL_PR_DEMO.svg)
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
-![GitHub repo size](https://img.shields.io/github/repo-size/srmsigkdd/PR_Demo)
+![GitHub repo size](https://img.shields.io/github/repo-size/ACM-SIGKDD-SRM-KTR-STUDENT-CHAPTER/PULL_PR_DEMO)
 
   <h1 align="center">PULL AND PUSH DEMO</h1>
 
@@ -10,7 +10,7 @@
 
  ## Current Contributors 🔻
 <div align="center">
-  <a href="https://github.com/ADITYAVOFFICIAL/Official_Website/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=srmsigkdd/PR_Demo" />
+  <a href="https://github.com/ACM-SIGKDD-SRM-KTR-STUDENT-CHAPTER/PULL_PR_DEMO/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ACM-SIGKDD-SRM-KTR-STUDENT-CHAPTER/PULL_PR_DEMO" />
 </a>
 </div>
