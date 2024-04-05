@@ -8,9 +8,4 @@
 
   ### A demonstration repository for pull and push actions. Feel free to contribute via pull requests.
 
- ## Current Contributors 🔻
-<div align="center">
-  <a href="https://github.com/ACM-SIGKDD-SRM-KTR-STUDENT-CHAPTER/PULL_PR_DEMO/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ACM-SIGKDD-SRM-KTR-STUDENT-CHAPTER/PULL_PR_DEMO" />
-</a>
-</div>
+
