@@ -7,9 +7,5 @@
   <h1 align="center">PULL AND PUSH DEMO</h1>
 
   ### A demonstration repository for pull and push actions. Feel free to contribute via pull requests.
-  
- ## Current Contributors 🔻
-<div align="center">
-  <img src="https://contrib.rocks/image?repo=ACM-SIGKDD-SRM-KTR-STUDENT-CHAPTER/PULL_PR_DEMO" />
-</div>
+
 
